@@ -1,0 +1,54 @@
+name: arcade
+
+# Generates six arcade games from the contribution grid, then picks one as the
+# featured game of the day. Pushes to the `games` branch, NOT `output` - the
+# snake workflow owns `output`, and ghaction-github-pages replaces the whole
+# branch, so sharing one would make each run wipe the other.
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: generate arcade games
+        uses: abozanona/pacman-contribution-graph@v5.3.2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman,galaga,breakout,puzzle-bobble,bomberman,minesweeper"
+          hide_month_labels: "false"
+
+      - name: rotate the featured game
+        run: |
+          cd dist
+          ls -la
+          # Rotate by day-of-year so the profile shows a different game daily.
+          mapfile -t GAMES < <(printf '%s\n' pacman galaga breakout puzzle-bobble bomberman minesweeper)
+          DAY=$(date +%j)
+          PICK="${GAMES[$(( 10#$DAY % ${#GAMES[@]} ))]}"
+          echo "featured game: $PICK"
+          # Prefer the dark/light pair when the game ships one, else reuse the single file.
+          for variant in dark light; do
+            if   [ "$variant" = dark ] && [ -f "${PICK}-dark.svg" ]; then src="${PICK}-dark.svg"
+            elif [ -f "${PICK}.svg" ];                                then src="${PICK}.svg"
+            else src="$(ls *.svg | head -1)"; fi
+            cp "$src" "featured-${variant}.svg"
+          done
+          echo "$PICK" > featured.txt
+          ls -la
+
+      - name: push to the games branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: games
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
