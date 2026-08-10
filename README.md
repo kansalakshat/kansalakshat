@@ -11,13 +11,73 @@
 
 ## Work
 
-| Project | What it is | Stack | Live |
-| :-- | :-- | :-- | :-- |
-| [**Nirmaan OS**](https://github.com/kansalakshat/Nirmaan-OS) | Site management for builders and supervisors. Budgets, daily reports, photo logs. | Expo, Supabase, TypeScript | [build](https://nirmaan-0s.vercel.app) |
-| [**E-Cell, IIT Bhilai**](https://github.com/kansalakshat/E-Cell-IIT_Bhilai) | Site for the Entrepreneurship Cell | JavaScript | [live](https://e-cell-iit-bhilai.vercel.app) |
-| [**Career Services Portal**](https://github.com/kansalakshat/Centre-for-Career-Planning-and-Services-Portal) | Job board closing the gap between students and the placement cell | JavaScript | [live](https://centre-for-career-planning-and-service.vercel.app) |
-| [**Saaz**](https://github.com/kansalakshat/saaz) | Site for the campus cultural festival | HTML, CSS | [live](https://saaz-iitbh.vercel.app) |
-| [**Culturals**](https://github.com/kansalakshat/Culturals-2) | Fest stack, currently on its second TypeScript pass | TypeScript | in progress |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://nirmaan-0s.vercel.app"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/nirmaan.png" width="100%" alt="Nirmaan OS"></a>
+
+### Nirmaan OS
+
+Your entire construction business in one pocket-sized command centre. Builders
+track stores, workers, attendance and wages. Supervisors file reports with photos
+straight from site. Ships fully bilingual, English and हिंदी.
+
+`Expo` `Supabase` `TypeScript` `TanStack Query`
+
+[Live build](https://nirmaan-0s.vercel.app) &nbsp;&middot;&nbsp; [Code](https://github.com/kansalakshat/Nirmaan-OS)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://e-cell-iit-bhilai.vercel.app"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/ecell.png" width="100%" alt="E-Cell IIT Bhilai"></a>
+
+### E-Cell, IIT Bhilai
+
+Build. Innovate. Lead. The public face of the Entrepreneurship Cell, turning
+curiosity into companies: ideas, mentors, funding, and a room full of people
+building things that matter.
+
+`JavaScript` `CSS` `Vercel`
+
+[Live site](https://e-cell-iit-bhilai.vercel.app) &nbsp;&middot;&nbsp; [Code](https://github.com/kansalakshat/E-Cell-IIT_Bhilai)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://centre-for-career-planning-and-service.vercel.app"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/careers.png" width="100%" alt="Career Services Portal"></a>
+
+### Career Services Portal
+
+One stop for placements and internships at IIT Bhilai. Three separate login
+paths for students, recruiters and admins, closing the gap between the campus
+and the companies hiring from it.
+
+`JavaScript` `CSS` `Vercel`
+
+[Live site](https://centre-for-career-planning-and-service.vercel.app) &nbsp;&middot;&nbsp; [Code](https://github.com/kansalakshat/Centre-for-Career-Planning-and-Services-Portal)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://saaz-iitbh.vercel.app"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/saaz.png" width="100%" alt="Saaz"></a>
+
+### Saaz
+
+A stage for artistic art and zeal. The summer cultural festival of IIT Bhilai,
+built as a night sky you scroll through. Culture at the heart of Central India.
+
+`HTML` `CSS` `Vercel`
+
+[Live site](https://saaz-iitbh.vercel.app) &nbsp;&middot;&nbsp; [Code](https://github.com/kansalakshat/saaz)
+
+</td>
+</tr>
+</table>
+
+Also on the bench: [**Culturals**](https://github.com/kansalakshat/Culturals-2), the fest stack on its second TypeScript pass.
 
 ---
 
@@ -25,7 +85,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,supabase,postgres,tailwind,html,css,git,github,vercel,figma&theme=dark&perline=8" alt="Stack">
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,bash,react,nextjs,nodejs,express,supabase,postgres,tailwind,html,css,git,github,vercel,figma&theme=dark&perline=9" alt="Stack">
 
 </div>
 
