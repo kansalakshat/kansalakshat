@@ -6,6 +6,7 @@ rest of the profile's palette.
 """
 from __future__ import annotations
 
+import base64
 import datetime as dt
 import math
 import pathlib
@@ -58,7 +59,16 @@ def main() -> None:
     lit = (1 - math.cos(2 * math.pi * f)) / 2 * 100
     days = (now.date() - DAY_ZERO).days
 
+    tile = base64.b64encode(
+        (pathlib.Path(__file__).parent / "tile.jpg").read_bytes()
+    ).decode()
+
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="760" height="96" viewBox="0 0 760 96" role="img" aria-label="{name}, {lit:.0f} percent lit. Shipping for {days} days.">
+  <defs>
+    <pattern id="brick" patternUnits="userSpaceOnUse" width="380" height="190">
+      <image href="data:image/jpeg;base64,{tile}" width="380" height="190"/>
+    </pattern>
+  </defs>
   <style>
     .mono {{ font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace; }}
     .lbl {{ fill:{MUTED}; font-size:10.5px; letter-spacing:.22em; }}
@@ -66,7 +76,8 @@ def main() -> None:
     .acc {{ fill:{DENIM}; }}
     .wrm {{ fill:{BRICK}; }}
   </style>
-  <rect x="1" y="1" width="758" height="94" rx="10" fill="{BG}" stroke="{LINE}"/>
+  <rect x="0" y="0" width="760" height="96" rx="10" fill="url(#brick)"/>
+  <rect x="1" y="1" width="758" height="94" rx="10" fill="{BG}" fill-opacity="0.80" stroke="{LINE}"/>
   {moon_svg(f, 52, 48, 24)}
   <text class="mono lbl" x="98" y="40">TONIGHT OVER IIT BHILAI</text>
   <text class="mono val" x="98" y="66">{name} <tspan class="acc">{lit:.0f}% lit</tspan></text>

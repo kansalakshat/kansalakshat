@@ -109,7 +109,7 @@ the camera around. Written in VPython, runs in the browser on GlowScript.
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/divider.jpg" width="100%" alt="">
 
 ## Stack
 
@@ -119,7 +119,7 @@ the camera around. Written in VPython, runs in the browser on GlowScript.
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/divider.jpg" width="100%" alt="">
 
 ## Metrics
 
@@ -130,7 +130,7 @@ the camera around. Written in VPython, runs in the browser on GlowScript.
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/divider.jpg" width="100%" alt="">
 
 ## Contributions in three dimensions
 
@@ -143,7 +143,7 @@ the camera around. Written in VPython, runs in the browser on GlowScript.
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/divider.jpg" width="100%" alt="">
 
 <div align="center">
 
@@ -153,21 +153,15 @@ the camera around. Written in VPython, runs in the browser on GlowScript.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kansalakshat&theme=github_dark&utcOffset=5.5" width="41%" alt="Productive time">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kansalakshat&theme=github_dark" width="41%" alt="Stats">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kansalakshat&hide_border=true&background=00000000&ring=6FA8D0&fire=6FA8D0&currStreakLabel=6FA8D0&sideLabels=8B9099&dates=8B9099&stroke=2A2A31&sideNums=DEDAD2&currStreakNum=DEDAD2">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=kansalakshat&hide_border=true&background=00000000&ring=2E6690&fire=2E6690&currStreakLabel=2E6690&sideLabels=5A5661&dates=5A5661&stroke=E4E1E6&sideNums=1A181C&currStreakNum=1A181C">
-</picture>
+<img src="https://streak-stats.demolab.com?user=kansalakshat&hide_border=true&background=1E1B19&ring=6FA8D0&fire=6FA8D0&currStreakLabel=6FA8D0&sideLabels=8B9099&dates=8B9099&stroke=2A2A31&sideNums=DEDAD2&currStreakNum=DEDAD2" alt="Contribution streak">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kansalakshat&bg_color=00000000&color=DEDAD2&title_color=6FA8D0&line=6FA8D0&point=6FA8D0&area=true&area_color=6FA8D0&hide_border=true&custom_title=Commit%20rhythm">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kansalakshat&bg_color=00000000&color=1A181C&title_color=2E6690&line=2E6690&point=2E6690&area=true&area_color=2E6690&hide_border=true&custom_title=Commit%20rhythm">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kansalakshat&bg_color=1E1B19&color=DEDAD2&title_color=6FA8D0&line=6FA8D0&point=6FA8D0&area=true&area_color=6FA8D0&hide_border=true&custom_title=Commit%20rhythm" alt="Contribution graph">
 
 <sub>Thin so far. <b>Will be regular from tomorrow.</b></sub>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/divider.jpg" width="100%" alt="">
 
 <details>
 <summary><b>Where it started</b></summary>
@@ -182,7 +176,7 @@ the camera around. Written in VPython, runs in the browser on GlowScript.
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/divider.jpg" width="100%" alt="">
 
 ## Arcade
 
@@ -243,7 +237,7 @@ Seven games, every one of them played on my real contribution grid. Regenerated 
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/divider.jpg" width="100%" alt="">
 
 <div align="center">
 
