@@ -75,9 +75,25 @@ built as a night sky you scroll through. Culture at the heart of Central India.
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="100%" colspan="2" valign="top">
 
-Also on the bench: [**Culturals**](https://github.com/kansalakshat/Culturals-2), the fest stack on its second TypeScript pass.
+<a href="https://github.com/kansalakshat/Culturals-2"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/culturals.png" width="100%" alt="IIT Bhilai Culturals"></a>
+
+### IIT Bhilai Culturals &nbsp;<img src="https://img.shields.io/badge/in_progress-0A0A0C?style=flat-square&labelColor=0A0A0C&color=FF6B00" alt="in progress">
+
+The Cultural Council portal, and the largest thing I am building right now.
+Clubs, societies, an events calendar and a gallery on the front, with a student
+portal, equipment booking and an admin dashboard behind a login. Not deployed
+yet, so the shot above is the dev build running locally.
+
+`TypeScript` `React` `Vite` `Express` `SQLite` `Tailwind`
+
+[Code](https://github.com/kansalakshat/Culturals-2)
+
+</td>
+</tr>
+</table>
 
 ---
 
