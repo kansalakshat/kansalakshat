@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/banner.png" width="100%" alt="Akshat Kansal, IIT Bhilai. I build things that actually ship.">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&width=700&height=48&lines=Five+things+running+in+production;Currently+building+Nirmaan+OS;TypeScript+%2F+Python+%2F+React+Native">
-  <img alt="Five things running in production" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C24A00&center=true&vCenter=true&width=700&height=48&lines=Five+things+running+in+production;Currently+building+Nirmaan+OS;TypeScript+%2F+Python+%2F+React+Native">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=6FA8D0&center=true&vCenter=true&width=700&height=48&lines=Five+things+running+in+production;Currently+building+Nirmaan+OS;TypeScript+%2F+Python+%2F+React+Native">
+  <img alt="Five things running in production" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=2E6690&center=true&vCenter=true&width=700&height=48&lines=Five+things+running+in+production;Currently+building+Nirmaan+OS;TypeScript+%2F+Python+%2F+React+Native">
 </picture>
 
 </div>
@@ -76,20 +76,35 @@ built as a night sky you scroll through. Culture at the heart of Central India.
 </td>
 </tr>
 <tr>
-<td width="100%" colspan="2" valign="top">
+<td width="50%" valign="top">
 
 <a href="https://github.com/kansalakshat/Culturals-2"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/culturals.png" width="100%" alt="IIT Bhilai Culturals"></a>
 
-### IIT Bhilai Culturals &nbsp;<img src="https://img.shields.io/badge/in_progress-0A0A0C?style=flat-square&labelColor=0A0A0C&color=FF6B00" alt="in progress">
+### IIT Bhilai Culturals &nbsp;<img src="https://img.shields.io/badge/in_progress-0B0D10?style=flat-square&labelColor=0B0D10&color=6FA8D0" alt="in progress">
 
 The Cultural Council portal, and the largest thing I am building right now.
-Clubs, societies, an events calendar and a gallery on the front, with a student
-portal, equipment booking and an admin dashboard behind a login. Not deployed
-yet, so the shot above is the dev build running locally.
+Clubs, societies, events and a gallery on the front, with a student portal,
+equipment booking and an admin dashboard behind a login. Not deployed yet, so
+the shot is the dev build running locally.
 
-`TypeScript` `React` `Vite` `Express` `SQLite` `Tailwind`
+`TypeScript` `React` `Vite` `Express` `SQLite`
 
 [Code](https://github.com/kansalakshat/Culturals-2)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://www.glowscript.org/#/user/akshatkansal/folder/MyPrograms/program/SOLAR-SYSTEM"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/solar.png" width="100%" alt="3D Solar System Simulation"></a>
+
+### 3D Solar System
+
+All eight planets orbiting at realistic relative speeds, with real textures and
+sizes. Click a planet to zoom in and read about it, space to pause, drag to fly
+the camera around. Written in VPython, runs in the browser on GlowScript.
+
+`Python` `VPython` `GlowScript`
+
+[Run it](https://www.glowscript.org/#/user/akshatkansal/folder/MyPrograms/program/SOLAR-SYSTEM) &nbsp;&middot;&nbsp; [Code](https://github.com/kansalakshat/3-D-Solar-System-Interactive-Simulation)
 
 </td>
 </tr>
@@ -140,13 +155,13 @@ yet, so the shot above is the dev build running locally.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kansalakshat&theme=github_dark" width="41%" alt="Stats">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kansalakshat&hide_border=true&background=00000000&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=8B8792&dates=8B8792&stroke=2A2A31&sideNums=E7E4DF&currStreakNum=E7E4DF">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=kansalakshat&hide_border=true&background=00000000&ring=C24A00&fire=C24A00&currStreakLabel=C24A00&sideLabels=5A5661&dates=5A5661&stroke=E4E1E6&sideNums=1A181C&currStreakNum=1A181C">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kansalakshat&hide_border=true&background=00000000&ring=6FA8D0&fire=6FA8D0&currStreakLabel=6FA8D0&sideLabels=8B9099&dates=8B9099&stroke=2A2A31&sideNums=DEDAD2&currStreakNum=DEDAD2">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=kansalakshat&hide_border=true&background=00000000&ring=2E6690&fire=2E6690&currStreakLabel=2E6690&sideLabels=5A5661&dates=5A5661&stroke=E4E1E6&sideNums=1A181C&currStreakNum=1A181C">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kansalakshat&bg_color=00000000&color=E7E4DF&title_color=FF6B00&line=FF6B00&point=FF6B00&area=true&area_color=FF6B00&hide_border=true&custom_title=Commit%20rhythm">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kansalakshat&bg_color=00000000&color=1A181C&title_color=C24A00&line=C24A00&point=C24A00&area=true&area_color=C24A00&hide_border=true&custom_title=Commit%20rhythm">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kansalakshat&bg_color=00000000&color=DEDAD2&title_color=6FA8D0&line=6FA8D0&point=6FA8D0&area=true&area_color=6FA8D0&hide_border=true&custom_title=Commit%20rhythm">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kansalakshat&bg_color=00000000&color=1A181C&title_color=2E6690&line=2E6690&point=2E6690&area=true&area_color=2E6690&hide_border=true&custom_title=Commit%20rhythm">
 </picture>
 
 </div>
@@ -161,7 +176,6 @@ yet, so the shot above is the dev build running locally.
 | Project | Notes |
 | :-- | :-- |
 | [FIND-ROOmie](https://github.com/kansalakshat/FIND-ROOmie) | Roommate matching on habit compatibility. Node and EJS. |
-| [3-D Solar System](https://github.com/kansalakshat/3-D-Solar-System-Interactive-Simulation) | Interactive simulation in VPython, hosted on GlowScript. |
 | [Turtle Sliding Game](https://github.com/kansalakshat/Turtle-Sliding-Game) | Number sliding puzzle built on Python's `turtle` module. |
 | [Portfolio Website](https://github.com/kansalakshat/Portfolio-Website) | The first site. Kept up on purpose. |
 
@@ -232,10 +246,10 @@ Seven games, every one of them played on my real contribution grid. Regenerated 
 
 <div align="center">
 
-<a href="https://github.com/kansalakshat?tab=repositories"><img src="https://img.shields.io/badge/all_repositories-0A0A0C?style=flat-square&logo=github&logoColor=FF6B00" alt="All repositories"></a>
+<a href="https://github.com/kansalakshat?tab=repositories"><img src="https://img.shields.io/badge/all_repositories-0B0D10?style=flat-square&logo=github&logoColor=6FA8D0" alt="All repositories"></a>
 
 <sub>Open to collaborating on anything that ships.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:0A0A0C&height=110&section=footer" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FA8D0,100:0B0D10&height=110&section=footer" width="100%" alt="">
 
 </div>
