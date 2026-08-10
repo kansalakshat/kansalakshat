@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A0C,100:FF6B00&height=230&section=header&text=Akshat%20Kansal&fontSize=58&fontColor=E7E4DF&fontAlignY=38&desc=I%20build%20things%20that%20actually%20ship&descAlignY=57&descSize=17&animation=fadeIn" width="100%" alt="Akshat Kansal">
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/banner.png" width="100%" alt="Akshat Kansal, IIT Bhilai. I build things that actually ship.">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&width=700&height=52&lines=Undergraduate+at+IIT+Bhilai;Five+things+running+in+production;TypeScript+%2F+Python+%2F+React+Native">
-  <img alt="Undergraduate at IIT Bhilai" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=800&color=C24A00&center=true&vCenter=true&width=700&height=52&lines=Undergraduate+at+IIT+Bhilai;Five+things+running+in+production;TypeScript+%2F+Python+%2F+React+Native">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&width=700&height=48&lines=Five+things+running+in+production;Currently+building+Nirmaan+OS;TypeScript+%2F+Python+%2F+React+Native">
+  <img alt="Five things running in production" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C24A00&center=true&vCenter=true&width=700&height=48&lines=Five+things+running+in+production;Currently+building+Nirmaan+OS;TypeScript+%2F+Python+%2F+React+Native">
 </picture>
 
 </div>
