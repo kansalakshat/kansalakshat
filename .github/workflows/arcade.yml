@@ -29,21 +29,24 @@ jobs:
       - name: rotate the featured game
         run: |
           cd dist
-          ls -la
           # Rotate by day-of-year so the profile shows a different game daily.
-          mapfile -t GAMES < <(printf '%s\n' pacman galaga breakout puzzle-bobble bomberman minesweeper)
+          GAMES=(pacman galaga breakout puzzle-bobble bomberman minesweeper)
           DAY=$(date +%j)
           PICK="${GAMES[$(( 10#$DAY % ${#GAMES[@]} ))]}"
-          echo "featured game: $PICK"
-          # Prefer the dark/light pair when the game ships one, else reuse the single file.
-          for variant in dark light; do
-            if   [ "$variant" = dark ] && [ -f "${PICK}-dark.svg" ]; then src="${PICK}-dark.svg"
-            elif [ -f "${PICK}.svg" ];                                then src="${PICK}.svg"
-            else src="$(ls *.svg | head -1)"; fi
-            cp "$src" "featured-${variant}.svg"
-          done
+
+          # The action emits "<game>-contribution-graph[-dark].svg". Resolve the
+          # exact names and FAIL LOUDLY if they are missing, so a naming change
+          # upstream can never silently ship a different game than featured.txt
+          # claims (it did exactly that on the first run).
+          LIGHT="${PICK}-contribution-graph.svg"
+          DARK="${PICK}-contribution-graph-dark.svg"
+          [ -f "$LIGHT" ] || { echo "::error::expected $LIGHT, got: $(ls *.svg)"; exit 1; }
+          [ -f "$DARK" ]  || DARK="$LIGHT"
+
+          cp "$DARK"  featured-dark.svg
+          cp "$LIGHT" featured-light.svg
           echo "$PICK" > featured.txt
-          ls -la
+          echo "featured game: $PICK  (dark=$DARK light=$LIGHT)"
 
       - name: push to the games branch
         uses: crazy-max/ghaction-github-pages@v4

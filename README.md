@@ -9,10 +9,76 @@
 
 </div>
 
+## Today's game
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/featured-dark.svg">
+  <img alt="Today's arcade game played on my contribution graph" src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/featured-light.svg" width="100%">
+</picture>
+
+<sub>Rotates daily. Every game below is played on my real contribution grid.</sub>
+
+</div>
+
+<details>
+<summary><b>Switch game</b> (six of them, plus the snake)</summary>
+
+<br>
+
+### Galaga
+
+A fighter ship strafes the grid and shoots my commits down.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/galaga-contribution-graph-dark.svg">
+  <img alt="Galaga" src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/galaga-contribution-graph.svg">
+</picture>
+
+### Pac-Man
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man" src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/pacman-contribution-graph.svg">
+</picture>
+
+### Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kansalakshat/kansalakshat/output/snake-dark.svg">
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/output/snake-light.svg">
+  <img alt="Snake" src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/output/snake-light.svg">
 </picture>
+
+### Breakout
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/breakout-contribution-graph-dark.svg">
+  <img alt="Breakout" src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/breakout-contribution-graph.svg">
+</picture>
+
+### Bomberman
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/bomberman-contribution-graph-dark.svg">
+  <img alt="Bomberman" src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/bomberman-contribution-graph.svg">
+</picture>
+
+### Puzzle Bobble
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/puzzle-bobble-contribution-graph-dark.svg">
+  <img alt="Puzzle Bobble" src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/puzzle-bobble-contribution-graph.svg">
+</picture>
+
+### Minesweeper
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/minesweeper-contribution-graph-dark.svg">
+  <img alt="Minesweeper" src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/games/minesweeper-contribution-graph.svg">
+</picture>
+
+</details>
 
 ---
 
@@ -38,6 +104,17 @@
 
 ---
 
+## Metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/metrics/overview.svg" width="46%" alt="Overview">
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/metrics/detail.svg" width="46%" alt="Isometric calendar and languages">
+
+</div>
+
+---
+
 ## Contributions in three dimensions
 
 <div align="center">
@@ -52,8 +129,6 @@
 ---
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kansalakshat&theme=github_dark" width="100%" alt="Profile summary">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kansalakshat&theme=github_dark" width="41%" alt="Languages by repo">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kansalakshat&theme=github_dark" width="41%" alt="Languages by commit">
