@@ -7,7 +7,7 @@
     .wrm { fill:#B08556; }
   </style>
   <rect x="1" y="1" width="758" height="94" rx="10" fill="#0B0D10" stroke="#20252C"/>
-  <circle cx="52" cy="48" r="24" fill="#151A20" stroke="#20252C"/><path d="M 52 24 A 24 24 0 0 0 52 72 A 20.71 24 0 0 1 52 24 Z" fill="#6FA8D0"/>
+  <circle cx="52" cy="48" r="24" fill="#151A20" stroke="#20252C"/><path d="M 52 24 A 24 24 0 0 0 52 72 A 20.72 24 0 0 1 52 24 Z" fill="#6FA8D0"/>
   <text class="mono lbl" x="98" y="40">TONIGHT OVER IIT BHILAI</text>
   <text class="mono val" x="98" y="66">Waning Crescent <tspan class="acc">7% lit</tspan></text>
   <line x1="430" y1="26" x2="430" y2="70" stroke="#20252C"/>
