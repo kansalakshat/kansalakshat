@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/banner.png" width="100%" alt="Akshat Kansal, IIT Bhilai. I build things that actually ship.">
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/banner.jpg" width="100%" alt="Akshat Kansal, IIT Bhilai. I build things that actually ship.">
 
 <img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/terminal.svg" width="760" alt="Terminal: five things running in production">
 
@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://nirmaan-0s.vercel.app"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/nirmaan.png" width="100%" alt="Nirmaan OS"></a>
+<a href="https://nirmaan-0s.vercel.app"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/nirmaan.jpg" width="100%" alt="Nirmaan OS"></a>
 
 ### Nirmaan OS
 
@@ -93,7 +93,7 @@ the shot is the dev build running locally.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://www.glowscript.org/#/user/akshatkansal/folder/MyPrograms/program/SOLAR-SYSTEM"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/solar.png" width="100%" alt="3D Solar System Simulation"></a>
+<a href="https://www.glowscript.org/#/user/akshatkansal/folder/MyPrograms/program/SOLAR-SYSTEM"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/solar.jpg" width="100%" alt="3D Solar System Simulation"></a>
 
 ### 3D Solar System
 
@@ -162,6 +162,8 @@ the camera around. Written in VPython, runs in the browser on GlowScript.
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kansalakshat&bg_color=00000000&color=DEDAD2&title_color=6FA8D0&line=6FA8D0&point=6FA8D0&area=true&area_color=6FA8D0&hide_border=true&custom_title=Commit%20rhythm">
   <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kansalakshat&bg_color=00000000&color=1A181C&title_color=2E6690&line=2E6690&point=2E6690&area=true&area_color=2E6690&hide_border=true&custom_title=Commit%20rhythm">
 </picture>
+
+<sub>Thin so far. <b>Will be regular from tomorrow.</b></sub>
 
 </div>
 
