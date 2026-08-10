@@ -42,8 +42,9 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
 
-      # Replaces the github-profile-trophy service, which has been returning
-      # 402 (over quota) and renders as a broken image wherever it is used.
+      # Renders empty on the built-in GITHUB_TOKEN (the plugin needs user-scoped
+      # data a PAT provides). Kept wired so it fills in the moment METRICS_TOKEN
+      # exists; not referenced from the README until then.
       - name: achievements
         uses: lowlighter/metrics@v3.34
         with:

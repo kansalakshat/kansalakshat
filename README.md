@@ -128,8 +128,6 @@ the camera around. Written in VPython, runs in the browser on GlowScript.
 <img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/metrics/overview.svg" width="46%" alt="Overview">
 <img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/metrics/detail.svg" width="46%" alt="Isometric calendar and languages">
 
-<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/metrics/achievements.svg" width="92%" alt="Achievements">
-
 </div>
 
 ---
