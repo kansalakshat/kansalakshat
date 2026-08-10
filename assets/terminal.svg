@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240" role="img"
+     aria-label="Terminal: akshat@iit-bhilai, five things running in production">
+  <style>
+    .win   { fill:#0B0D10; stroke:#20252C; stroke-width:1; }
+    .bar   { fill:#12161B; }
+    .mono  { font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace; }
+    .path  { fill:#6FA8D0; font-weight:700; }
+    .dim   { fill:#8B9099; }
+    .ink   { fill:#DEDAD2; }
+    .warm  { fill:#B08556; }
+    .title { fill:#6E747C; letter-spacing:.14em; }
+
+    /* Each line reveals by widening its own clip rect, then holds. */
+    .r1 { animation: w1 12s steps(28) infinite; }
+    .r2 { animation: w2 12s steps(34) infinite; }
+    .r3 { animation: w3 12s steps(30) infinite; }
+    @keyframes w1 { 0%{width:0}  10%{width:330px} 100%{width:330px} }
+    @keyframes w2 { 0%,32%{width:0} 44%{width:400px} 100%{width:400px} }
+    @keyframes w3 { 0%,60%{width:0} 72%{width:360px} 100%{width:360px} }
+
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 0%,50%{opacity:1} 51%,100%{opacity:0} }
+
+    @media (prefers-reduced-motion: reduce) {
+      .r1,.r2,.r3 { animation:none; width:400px; }
+      .caret { animation:none; }
+    }
+  </style>
+
+  <rect class="win" x="1" y="1" width="758" height="238" rx="10"/>
+  <path class="bar" d="M1 11a10 10 0 0 1 10-10h738a10 10 0 0 1 10 10v25H1z"/>
+  <circle cx="24" cy="23" r="5.5" fill="#6FA8D0"/>
+  <circle cx="43" cy="23" r="5.5" fill="#2A3038"/>
+  <circle cx="62" cy="23" r="5.5" fill="#2A3038"/>
+  <text class="mono title" x="380" y="27" font-size="11.5" text-anchor="middle">akshat@iit-bhilai</text>
+
+  <clipPath id="c1"><rect class="r1" x="26" y="52" height="22"/></clipPath>
+  <clipPath id="c2"><rect class="r2" x="26" y="104" height="22"/></clipPath>
+  <clipPath id="c3"><rect class="r3" x="26" y="156" height="22"/></clipPath>
+
+  <g clip-path="url(#c1)">
+    <text class="mono" x="26" y="69" font-size="15">
+      <tspan class="path">~/nirmaan-os</tspan><tspan class="dim"> $ </tspan><tspan class="ink">git push origin main</tspan>
+    </text>
+  </g>
+  <text class="mono dim" x="26" y="91" font-size="14" opacity="0">.</text>
+
+  <g clip-path="url(#c2)">
+    <text class="mono" x="26" y="121" font-size="15">
+      <tspan class="path">~/culturals</tspan><tspan class="dim"> $ </tspan><tspan class="ink">npm run dev</tspan><tspan class="warm">  ready in 1.2s</tspan>
+    </text>
+  </g>
+
+  <g clip-path="url(#c3)">
+    <text class="mono" x="26" y="173" font-size="15">
+      <tspan class="path">~/</tspan><tspan class="dim"> $ </tspan><tspan class="ink">whoami</tspan>
+    </text>
+  </g>
+
+  <text class="mono" x="26" y="205" font-size="15">
+    <tspan class="dim">&#8250; </tspan><tspan class="ink">five things running in production</tspan><tspan class="caret" fill="#6FA8D0">&#9608;</tspan>
+  </text>
+</svg>

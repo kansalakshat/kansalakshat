@@ -2,10 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/banner.png" width="100%" alt="Akshat Kansal, IIT Bhilai. I build things that actually ship.">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=6FA8D0&center=true&vCenter=true&width=700&height=48&lines=Five+things+running+in+production;Currently+building+Nirmaan+OS;TypeScript+%2F+Python+%2F+React+Native">
-  <img alt="Five things running in production" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=2E6690&center=true&vCenter=true&width=700&height=48&lines=Five+things+running+in+production;Currently+building+Nirmaan+OS;TypeScript+%2F+Python+%2F+React+Native">
-</picture>
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/terminal.svg" width="760" alt="Terminal: five things running in production">
+
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/ambient.svg" width="760" alt="Tonight's moon over IIT Bhilai, and days shipping">
 
 </div>
 
@@ -129,6 +128,8 @@ the camera around. Written in VPython, runs in the browser on GlowScript.
 <img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/metrics/overview.svg" width="46%" alt="Overview">
 <img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/metrics/detail.svg" width="46%" alt="Isometric calendar and languages">
 
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/metrics/achievements.svg" width="92%" alt="Achievements">
+
 </div>
 
 ---
@@ -245,6 +246,21 @@ Seven games, every one of them played on my real contribution grid. Regenerated 
 ---
 
 <div align="center">
+
+```
+          _  __ _____ _    _       _______
+    /\   | |/ // ____| |  | |   /\|__   __|
+   /  \  | ' /| (___ | |__| |  /  \  | |
+  / /\ \ |  <  \___ \|  __  | / /\ \ | |
+ / ____ \| . \ ____) | |  | |/ ____ \| |
+/_/    \_\_|\_\_____/|_|  |_/_/    \_\_|
+ _  __          _   _  _____         _
+| |/ /    /\   | \ | |/ ____|  /\   | |
+| ' /    /  \  |  \| | (___   /  \  | |
+|  <    / /\ \ | . ` |\___ \ / /\ \ | |
+| . \  / ____ \| |\  |____) / ____ \| |____
+|_|\_\/_/    \_\_| \_|_____/_/    \_\______|
+```
 
 <a href="https://github.com/kansalakshat?tab=repositories"><img src="https://img.shields.io/badge/all_repositories-0B0D10?style=flat-square&logo=github&logoColor=6FA8D0" alt="All repositories"></a>
 
