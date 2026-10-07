@@ -47,18 +47,18 @@ that swing open between pages, and event passes styled as railway tickets.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/kansalakshat/CA"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/cacrm.png" width="100%" alt="CA Firm CRM"></a>
+<a href="https://github.com/kansalakshat/Culturals-2"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/culturals.png" width="100%" alt="IIT Bhilai Culturals"></a>
 
-### CA Firm CRM
+### IIT Bhilai Culturals &nbsp;<img src="https://img.shields.io/badge/in_progress-0B0D10?style=flat-square&labelColor=0B0D10&color=6FA8D0" alt="in progress">
 
-A multi-firm CRM for chartered accountants. Each firm gets a private workspace
-for clients, GST invoices, filing deadlines, documents and leads, plus an AI
-support agent and n8n automations for reminders. The shot is a local build with
-demo data.
+The Cultural Council portal, and the largest thing I am building right now.
+Clubs, societies, events and a gallery on the front, with a student portal,
+equipment booking and an admin dashboard behind a login. Not deployed yet, so
+the shot is the dev build running locally.
 
-`React` `Vite` `Node.js` `Supabase` `n8n`
+`TypeScript` `React` `Vite` `Express` `SQLite`
 
-[Code](https://github.com/kansalakshat/CA)
+[Code](https://github.com/kansalakshat/Culturals-2)
 
 </td>
 <td width="50%" valign="top">
@@ -137,39 +137,6 @@ built as a night sky you scroll through. Culture at the heart of Central India.
 `HTML` `CSS` `Vercel`
 
 [Live site](https://saaz-iitbh.vercel.app) &nbsp;&middot;&nbsp; [Code](https://github.com/kansalakshat/saaz)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/kansalakshat/Culturals-2"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/culturals.png" width="100%" alt="IIT Bhilai Culturals"></a>
-
-### IIT Bhilai Culturals &nbsp;<img src="https://img.shields.io/badge/in_progress-0B0D10?style=flat-square&labelColor=0B0D10&color=6FA8D0" alt="in progress">
-
-The Cultural Council portal, and the largest thing I am building right now.
-Clubs, societies, events and a gallery on the front, with a student portal,
-equipment booking and an admin dashboard behind a login. Not deployed yet, so
-the shot is the dev build running locally.
-
-`TypeScript` `React` `Vite` `Express` `SQLite`
-
-[Code](https://github.com/kansalakshat/Culturals-2)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://www.glowscript.org/#/user/akshatkansal/folder/MyPrograms/program/SOLAR-SYSTEM"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/solar.jpg" width="100%" alt="3D Solar System Simulation"></a>
-
-### 3D Solar System
-
-All eight planets orbiting at realistic relative speeds, with real textures and
-sizes. Click a planet to zoom in and read about it, space to pause, drag to fly
-the camera around. Written in VPython, runs in the browser on GlowScript.
-
-`Python` `VPython` `GlowScript`
-
-[Run it](https://www.glowscript.org/#/user/akshatkansal/folder/MyPrograms/program/SOLAR-SYSTEM) &nbsp;&middot;&nbsp; [Code](https://github.com/kansalakshat/3-D-Solar-System-Interactive-Simulation)
 
 </td>
 </tr>
