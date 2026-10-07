@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/banner.jpg" width="100%" alt="Akshat Kansal, IIT Bhilai. I build things that actually ship.">
 
-<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/terminal.svg" width="760" alt="Terminal: five things running in production">
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/terminal.svg" width="760" alt="Terminal: six things running in production">
 
 <img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/ambient.svg" width="760" alt="Tonight's moon over IIT Bhilai, and days shipping">
 
@@ -11,6 +11,72 @@
 ## Work
 
 <table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://tender-0s.vercel.app"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/tender.png" width="100%" alt="Tender OS"></a>
+
+### Tender OS
+
+Every open notice from India's government procurement portals in one place,
+ranked for your company by an AI relevance engine. 23 official portals, 24,000+
+live tenders. Compliance lives in code: robots.txt checked, rate limits obeyed,
+no CAPTCHA tricks, personal data scrubbed before it touches the database.
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Vercel`
+
+[Live site](https://tender-0s.vercel.app) &nbsp;&middot;&nbsp; [Code](https://github.com/kansalakshat/Tender-os)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://meraz7.vercel.app"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/meraz.jpg" width="100%" alt="Meraz 7.0"></a>
+
+### Meraz 7.0
+
+The site for IIT Bhilai's annual techno-cultural fest, rebuilt in a Retro India
+theme. A CRT TV loader, a scroll that flies you into the street, fort gates
+that swing open between pages, and event passes styled as railway tickets.
+
+`Next.js` `TypeScript` `Tailwind` `GSAP` `Lenis`
+
+[Live site](https://meraz7.vercel.app) &nbsp;&middot;&nbsp; [Code](https://github.com/kansalakshat/Meraz)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/kansalakshat/CA"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/cacrm.png" width="100%" alt="CA Firm CRM"></a>
+
+### CA Firm CRM
+
+A multi-firm CRM for chartered accountants. Each firm gets a private workspace
+for clients, GST invoices, filing deadlines, documents and leads, plus an AI
+support agent and n8n automations for reminders. The shot is a local build with
+demo data.
+
+`React` `Vite` `Node.js` `Supabase` `n8n`
+
+[Code](https://github.com/kansalakshat/CA)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/kansalakshat/Hacker-House"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/hackerhouse.jpg" width="100%" alt="Hacker House Goa frame generator"></a>
+
+### Hacker House Goa
+
+Drop in one photo, get an on-brand HH Goa 2026 profile frame or builder pass.
+Everything renders on a canvas in the browser in milliseconds, HEIC included,
+and one tap shares it to X with the graphic as the link preview.
+
+`Next.js` `TypeScript` `Three.js` `Canvas` `Vercel Blob`
+
+[Code](https://github.com/kansalakshat/Hacker-House)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -108,6 +174,15 @@ the camera around. Written in VPython, runs in the browser on GlowScript.
 </td>
 </tr>
 </table>
+
+---
+
+## Open source
+
+| Project | Contribution |
+| :-- | :-- |
+| [StabilityNexus / Gluon-EVM-WebUI](https://github.com/StabilityNexus/Gluon-EVM-WebUI) | [#47](https://github.com/StabilityNexus/Gluon-EVM-WebUI/pull/47) Link previews: og-image and metadata pointed at GitHub Pages. In review. |
+| [OpenLake / Career Services Portal](https://github.com/OpenLake/Centre-for-Career-Planning-and-Services-Portal) | [#229](https://github.com/OpenLake/Centre-for-Career-Planning-and-Services-Portal/pull/229) Working email delivery for verification and password reset, plus a mobile nav menu. In review. |
 
 ---
 

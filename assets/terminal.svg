@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240" role="img"
-     aria-label="Terminal: akshat@iit-bhilai, five things running in production">
+     aria-label="Terminal: akshat@iit-bhilai, six things running in production">
   <style>
     .win   { fill:#0B0D10; stroke:#20252C; stroke-width:1; }
     .bar   { fill:#12161B; }
@@ -58,6 +58,6 @@
   </g>
 
   <text class="mono" x="26" y="205" font-size="15">
-    <tspan class="dim">&#8250; </tspan><tspan class="ink">five things running in production</tspan><tspan class="caret" fill="#6FA8D0">&#9608;</tspan>
+    <tspan class="dim">&#8250; </tspan><tspan class="ink">six things running in production</tspan><tspan class="caret" fill="#6FA8D0">&#9608;</tspan>
   </text>
 </svg>
