@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/banner.jpg" width="100%" alt="Akshat Kansal, IIT Bhilai. I build things that actually ship.">
 
-<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/terminal.svg" width="760" alt="Terminal: six things running in production">
+<img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/terminal.svg" width="760" alt="Terminal: eight things running in production">
 
 <img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/ambient.svg" width="760" alt="Tonight's moon over IIT Bhilai, and days shipping">
 
@@ -47,23 +47,22 @@ that swing open between pages, and event passes styled as railway tickets.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/kansalakshat/Culturals-2"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/culturals.png" width="100%" alt="IIT Bhilai Culturals"></a>
+<a href="https://culturals.vercel.app"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/culturals.png" width="100%" alt="IIT Bhilai Culturals"></a>
 
-### IIT Bhilai Culturals &nbsp;<img src="https://img.shields.io/badge/in_progress-0B0D10?style=flat-square&labelColor=0B0D10&color=6FA8D0" alt="in progress">
+### IIT Bhilai Culturals
 
-The Cultural Council portal, and the largest thing I am building right now.
+The Cultural Council portal, and the largest thing I have built so far.
 Clubs, societies, events and a gallery on the front, with a student portal,
-equipment booking and an admin dashboard behind a login. Not deployed yet, so
-the shot is the dev build running locally.
+equipment booking and an admin dashboard behind a login.
 
 `TypeScript` `React` `Vite` `Express` `SQLite`
 
-[Code](https://github.com/kansalakshat/Culturals-2)
+[Live site](https://culturals.vercel.app) &nbsp;&middot;&nbsp; [Code](https://github.com/kansalakshat/Culturals-2)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/kansalakshat/Hacker-House"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/hackerhouse.jpg" width="100%" alt="Hacker House Goa frame generator"></a>
+<a href="https://hacker-house-akshat.vercel.app"><img src="https://raw.githubusercontent.com/kansalakshat/kansalakshat/main/assets/work/hackerhouse.jpg" width="100%" alt="Hacker House Goa frame generator"></a>
 
 ### Hacker House Goa
 
@@ -73,7 +72,7 @@ and one tap shares it to X with the graphic as the link preview.
 
 `Next.js` `TypeScript` `Three.js` `Canvas` `Vercel Blob`
 
-[Code](https://github.com/kansalakshat/Hacker-House)
+[Live site](https://hacker-house-akshat.vercel.app) &nbsp;&middot;&nbsp; [Code](https://github.com/kansalakshat/Hacker-House)
 
 </td>
 </tr>
