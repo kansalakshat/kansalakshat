@@ -147,7 +147,7 @@ built as a night sky you scroll through. Culture at the heart of Central India.
 
 | Project | Contribution |
 | :-- | :-- |
-| [StabilityNexus / Gluon-EVM-WebUI](https://github.com/StabilityNexus/Gluon-EVM-WebUI) | [#47](https://github.com/StabilityNexus/Gluon-EVM-WebUI/pull/47) Link previews: og-image and metadata pointed at GitHub Pages. Merged. |
+| [StabilityNexus / Gluon-EVM-WebUI](https://github.com/StabilityNexus/Gluon-EVM-WebUI) | Reported the broken link preview in [#46](https://github.com/StabilityNexus/Gluon-EVM-WebUI/issues/46), then fixed it in [#47](https://github.com/StabilityNexus/Gluon-EVM-WebUI/pull/47): og-image and metadata pointed at GitHub Pages. Merged. |
 | [OpenLake / Career Services Portal](https://github.com/OpenLake/Centre-for-Career-Planning-and-Services-Portal) | [#229](https://github.com/OpenLake/Centre-for-Career-Planning-and-Services-Portal/pull/229) Working email delivery for verification and password reset, plus a mobile nav menu. In review. |
 
 ---
