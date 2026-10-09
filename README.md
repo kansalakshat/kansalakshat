@@ -204,8 +204,6 @@ built as a night sky you scroll through. Culture at the heart of Central India.
   <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kansalakshat&bg_color=00000000&color=1A181C&title_color=2E6690&line=2E6690&point=2E6690&area=true&area_color=2E6690&hide_border=true&custom_title=Commit%20rhythm">
 </picture>
 
-<sub>Thin so far. <b>Will be regular from tomorrow.</b></sub>
-
 </div>
 
 ---
